@@ -245,7 +245,14 @@ This guide covers everything from **setup to running TypeScript code**, common m
 
 
 
+
+
+
+
 # or
+
+
+
 
 
 # 🚀 Ultimate TypeScript Setup & Run in Node.js
@@ -516,6 +523,11 @@ Happy TypeScripting! 🚀
 
 
 # or 
+
+
+
+
+
 # 🚀 TypeScript Setup & Run in Node.js
 
 This guide shows how to **set up TypeScript in Node.js** from scratch, step by step, for **beginners and advanced developers**. You will be able to **write, compile, and run TypeScript code confidently**.
